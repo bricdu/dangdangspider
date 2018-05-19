@@ -1,0 +1,64 @@
+2018-05-19 13:20:02 [scrapy.core.scraper] ERROR: Error processing {}
+Traceback (most recent call last):
+  File "C:\Python365\lib\site-packages\twisted\internet\defer.py", line 653, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\USER\Desktop\dang\dangdang\dangdang\pipelines.py", line 12, in process_item
+    print(item['title'])
+  File "C:\Python365\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'title'
+2018-05-19 13:20:02 [scrapy.core.scraper] ERROR: Error processing {}
+Traceback (most recent call last):
+  File "C:\Python365\lib\site-packages\twisted\internet\defer.py", line 653, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\USER\Desktop\dang\dangdang\dangdang\pipelines.py", line 12, in process_item
+    print(item['title'])
+  File "C:\Python365\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'title'
+2018-05-19 13:20:02 [scrapy.extensions.logstats] INFO: Crawled 21 pages (at 21 pages/min), scraped 0 items (at 0 items/min)
+2018-05-19 13:20:02 [scrapy.core.scraper] ERROR: Error processing {}
+Traceback (most recent call last):
+  File "C:\Python365\lib\site-packages\twisted\internet\defer.py", line 653, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\USER\Desktop\dang\dangdang\dangdang\pipelines.py", line 12, in process_item
+    print(item['title'])
+  File "C:\Python365\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'title'
+2018-05-19 13:20:02 [scrapy.core.scraper] ERROR: Error processing {}
+Traceback (most recent call last):
+  File "C:\Python365\lib\site-packages\twisted\internet\defer.py", line 653, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\USER\Desktop\dang\dangdang\dangdang\pipelines.py", line 12, in process_item
+    print(item['title'])
+  File "C:\Python365\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'title'
+2018-05-19 13:20:02 [scrapy.core.scraper] ERROR: Error processing {}
+Traceback (most recent call last):
+  File "C:\Python365\lib\site-packages\twisted\internet\defer.py", line 653, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\USER\Desktop\dang\dangdang\dangdang\pipelines.py", line 12, in process_item
+    print(item['title'])
+  File "C:\Python365\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'title'
+2018-05-19 13:20:02 [scrapy.core.scraper] ERROR: Error processing {}
+Traceback (most recent call last):
+  File "C:\Python365\lib\site-packages\twisted\internet\defer.py", line 653, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\USER\Desktop\dang\dangdang\dangdang\pipelines.py", line 12, in process_item
+    print(item['title'])
+  File "C:\Python365\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'title'
+2018-05-19 13:20:02 [scrapy.core.scraper] ERROR: Error processing {}
+Traceback (most recent call last):
+  File "C:\Python365\lib\site-packages\twisted\internet\defer.py", line 653, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\USER\Desktop\dang\dangdang\dangdang\pipelines.py", line 12, in process_item
+    print(item['title'])
+  File "C:\Python365\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'title'
