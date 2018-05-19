@@ -18,6 +18,7 @@ class DdSpider(scrapy.Spider):
         'http://category.dangdang.com/pg1-cp01.03.00.00.00.00.html',
     )
  
+
     def parse(self,response):
     #for i in range(1,101):
         
